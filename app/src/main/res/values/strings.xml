@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">সহজ হোম</string>
+    <string name="device_admin_label">সহজ হোম অ্যাডমিন নিয়ন্ত্রণ</string>
+    <string name="device_admin_description">বয়স্কদের লঞ্চার ও নিরাপত্তামূলক ডিভাইস নিয়ন্ত্রণের জন্য ঐচ্ছিক অ্যাডমিন অনুমতি।</string>
+</resources>

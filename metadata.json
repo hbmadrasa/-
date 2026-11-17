@@ -1,0 +1,6 @@
+{
+  "name": "সহজ হোম",
+  "description": "বয়স্ক ব্যক্তিদের জন্য সহজ বাংলা অ্যান্ড্রয়েড লঞ্চার ও গোপন অ্যাডমিন কন্ট্রোল প্যানেল",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
